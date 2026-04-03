@@ -1,8 +1,7 @@
 # 马斯克思维框架：知识卡片库
 
 > 多来源、持续生长的知识底座。边读边存，Agent 越用越强。
-> 当前卡片数：35 / 70（第一批：场景一、二 + 通用）
-> 第二批（场景三、四）待续
+> 当前卡片数：70（全部完成）
 
 ---
 
@@ -290,4 +289,252 @@
 
 ---
 
-> ⚠️ 第二批卡片（场景三：产品与制造、场景四：表达与影响，约 35 张）待下次 session 继续填充
+## 三、产品与制造
+
+> 场景标签：#产品
+> 用户带着产品想法、功能决策、技术选型来时调用
+
+### 算法五步法
+- **来源**：📖《The Book of Elon》| The Algorithm
+- **类型**：方法论
+- **核心观点**：质疑需求 → 删除 → 简化 → 加速 → 自动化，顺序很重要
+- **原文**：Make your requirements less dumb. Try very hard to delete the part or process. Simplify or optimize. Accelerate. Automate. I've personally made the mistake of going backward on all five steps multiple times.
+- **场景标签**：#产品
+
+### 算法第一步——你的需求肯定是蠢的
+- **来源**：📖《The Book of Elon》| The Algorithm
+- **类型**：方法论
+- **核心观点**：聪明人提的需求最危险，因为你不敢质疑
+- **原文**：Your requirements are definitely dumb. It does not matter who gave them to you. Requirements from smart people are the most dangerous, because you're less likely to question them. Whatever requirement you have must come from a person, not a department.
+- **场景标签**：#产品
+
+### 算法第二步——如果不用加回去 10%，你删得不够狠
+- **来源**：📖《The Book of Elon》| The Algorithm
+- **类型**：方法论
+- **核心观点**：刻意多删，至少 10% 要加回来才算到位
+- **原文**：If you're not adding deleted things back in 10 percent of the time, you're clearly not deleting enough. We are on a deletion rampage!! Nothing is sacred.
+- **场景标签**：#产品
+
+### 算法第三步——别优化不该存在的东西
+- **来源**：📖《The Book of Elon》| The Algorithm
+- **类型**：方法论
+- **核心观点**：聪明工程师最常犯的错：优化一个根本不该存在的东西
+- **原文**：The most common mistake of smart engineers is to optimize a thing that should not exist. If you're digging your grave, don't dig it faster. Stop digging.
+- **场景标签**：#产品
+
+### 玻璃纤维垫的故事——自动化→加速→优化→删除
+- **来源**：📖《The Book of Elon》| The Algorithm
+- **类型**：真实故事
+- **核心观点**：五个步骤全做反了，最后发现整个零件就不该存在
+- **原文**：We increased the robot rate by 20%, then 100%. Then optimized glue drying speed. Finally I asked, "What are these mats for?" Battery team said noise. Noise team said fire safety. We ran a test—no one could tell the difference. So we deleted the part, which deleted two million dollars of robotics.
+- **场景标签**：#产品
+
+### 白痴指数
+- **来源**：📖《The Book of Elon》| Simplicity Wins
+- **类型**：方法论
+- **核心观点**：任何成本都要和理论最优值对比，差距就是优化空间
+- **原文**：Never use a cruise missile to kill a fly; just use a flyswatter. The number of lines of code is not a figure of merit. I would award one point for adding a line of code and two points for deleting a line of code.
+- **场景标签**：#产品
+
+### 最好的零件是没有零件
+- **来源**：📖《The Book of Elon》| Simplicity Wins
+- **类型**：原则
+- **核心观点**：简化不是口号，是一千个小改动的总和
+- **原文**：The best part is no part. The best process is no process. Simplicity comes from hundreds of little changes. Being able to get 40 percent more output from the same manufacturing line makes a big difference.
+- **场景标签**：#产品
+
+### Model 3 五十个零件的教训
+- **来源**：📖《The Book of Elon》| Simplicity Wins
+- **类型**：真实故事
+- **核心观点**：五十个工程师各自选最优材料，合在一起就是弗兰肯斯坦
+- **原文**：Fifty different times for fifty different parts, an engineer would ask, "What's the best material?" They were all true individually, but not true collectively. It looked like a Frankenstein situation. It's way better to have a single piece, casted.
+- **场景标签**：#产品
+
+### 一座工厂快两倍等于多了一座工厂
+- **来源**：📖《The Book of Elon》| Speed Is Both Offense and Defense
+- **类型**：金句
+- **核心观点**：速度就是资源，提高效率等于增加资源
+- **原文**：The only true currency is time. What is the time risk associated with something? The one thing you cannot replace is time.
+- **场景标签**：#产品
+
+### 别浪费时间开会
+- **来源**：📖《The Book of Elon》| Don't Waste Time
+- **类型**：原则
+- **核心观点**：大型会议是大公司的瘟疫
+- **原文**：Excessive meetings are the blight of big companies and almost always get worse over time. Get rid of all large meetings, unless you're certain they are providing value to the whole audience.
+- **场景标签**：#产品
+
+### 并行做事
+- **来源**：📖《The Book of Elon》| Do Things in Parallel
+- **类型**：方法论
+- **核心观点**：一切以时间衡量，串行做事是最大的浪费
+- **原文**：Everything is measured in terms of time. The one thing you cannot replace is time. Run tasks in parallel whenever possible.
+- **场景标签**：#产品
+
+### 设定激进的时间表
+- **来源**：📖《The Book of Elon》| Set Aggressive Timelines
+- **类型**：方法论
+- **核心观点**：可以浪费设备和钱，不能浪费时间
+- **原文**：I often tell the Tesla team: "It's okay to scrap equipment or money. It's not okay to scrap time."
+- **场景标签**：#产品
+
+### 失败是迭代的副作用
+- **来源**：📖《The Book of Elon》| Innovation Needs Permission to Fail
+- **类型**：原则
+- **核心观点**：如果你不能说出搞砸的四种方式，你就不是真正做事的人
+- **原文**：Failure is a side effect of iteration. I once told a discouraged engineer, "If you can't tell me the four ways you fucked something up before you got it right, you weren't the one doing the real work."
+- **场景标签**：#产品 #心理
+
+### 先发一个烂版本——星舰哲学
+- **来源**：📖《The Book of Elon》| You Have to Blow Things Up
+- **类型**：原则
+- **核心观点**：不推到边缘就达不到目标，早期版本就是用来炸的
+- **原文**：The first goal is to make the damn thing work—we'll optimize it later. We want to push the envelope. Starship does not have anyone on board during early trials so we can blow things up, learn, and iterate.
+- **场景标签**：#产品
+
+### 工厂才是产品
+- **来源**：📖《The Book of Elon》| The Factory Is the Product
+- **类型**：原则
+- **核心观点**：真正重要的是制造机器的机器
+- **原文**：The biggest epiphany I had building Tesla is what really matters is the machine that builds the machines—the factory. To a first approximation, the factory is the product.
+- **场景标签**：#产品
+
+### 攻击约束点
+- **来源**：📖《The Book of Elon》| Attack the Constraint
+- **类型**：方法论
+- **核心观点**：设计火箭简单，书上都写了；制造才是瓶颈
+- **原文**：Designing a rocket is trivial. There are tons of books you can read, and if you can understand equations, you can design a rocket. The hardest part is manufacturing. To a first approximation, the factory is the product.
+- **场景标签**：#产品
+
+### 制造就是护城河
+- **来源**：📖《The Book of Elon》| Manufacturing Is the Moat
+- **类型**：原则
+- **核心观点**：制造竞争力 = 规模经济 + 技术水平
+- **原文**：Two things define manufacturing competitiveness: economies of scale and technology. If you maximize your level of technology and maximize your economies of scale, you have the most competitive manufacturing on the planet.
+- **场景标签**：#产品
+
+### 去掉组织边界——产品会暴露组织结构的错误
+- **来源**：📖《The Book of Elon》| Remove Organizational Boundaries
+- **类型**：方法论
+- **核心观点**：信息应该走最短路径，不是走指挥链
+- **原文**：In any product, you can see the errors in the organization's structure. Communication should travel via the shortest path necessary to get the job done, not through the "chain of command." Any manager who enforces chain of command will soon find themselves working elsewhere.
+- **场景标签**：#产品
+
+### 尽可能靠近信息源
+- **来源**：📖《The Book of Elon》| Remove Organizational Boundaries
+- **类型**：方法论
+- **核心观点**：别只和高管聊，去问一线焊接工人
+- **原文**：I talked to some of the workers actually doing the welding. I asked what they thought was safe. The line workers thought the tank walls could get as thin as 4.8mm. "What about four?" I asked. "That would make us pretty nervous." "Okay, let's try four millimeters." It worked.
+- **场景标签**：#产品
+
+### 先做一个能跑的原型
+- **来源**：📖《The Book of Elon》| A Group with a Goal
+- **类型**：方法论
+- **核心观点**：PPT 上什么都能好看，实物原型才能说服人
+- **原文**：If you're going to create a company, the first thing you should try to do is create a working prototype. Anything can look good on PowerPoint. If you have an actual demonstration, even in primitive form, it is much more effective.
+- **场景标签**：#产品 #表达
+
+### 序列化策略——从贵到便宜
+- **来源**：📖《The Book of Elon》| Sequenced Strategy of Tesla
+- **类型**：方法论
+- **核心观点**：新技术先做高端少量，再一步步走向大众
+- **原文**：Build a sports car. Use that money to build an affordable car. Use that money to build an even more affordable car. Starting a car company is idiotic, and an electric car company is idiocy squared.
+- **场景标签**：#产品 #决策
+
+---
+
+## 四、表达与影响
+
+> 场景标签：#表达
+> 用户带着自媒体、内容创作、个人品牌问题来时调用
+
+### 真实性就是品牌
+- **来源**：📖《The Book of Elon》| The Battle of Public Perception
+- **类型**：原则
+- **核心观点**：产品好，用户自然会口口相传
+- **原文**：The way to sell any product is through word of mouth. The key is to have a product people love. Tesla does not advertise or pay for endorsements. Instead, we use that money to make the product great.
+- **场景标签**：#表达 #产品
+
+### 不花钱做广告
+- **来源**：📖《The Book of Elon》| The Battle of Public Perception
+- **类型**：原则
+- **核心观点**：把广告费全投到产品上
+- **原文**：We're not spending money on advertising, public relations, or endorsements. Anyone who buys our car bought it because they like the car, not their impression of the car.
+- **场景标签**：#表达 #产品
+
+### 面对攻击——他们不认识你
+- **来源**：📖《The Book of Elon》| The Battle of Public Perception
+- **类型**：方法论
+- **核心观点**：写文章骂你的人根本不认识你，他们只想要点击量
+- **原文**：It does get me down at times. It makes me sad. But these attacks are by people who don't know you and their goal is to generate clicks. If you can detach yourself emotionally and say, "This person does not know me. They're just writing to get clicks" then it doesn't hurt as much.
+- **场景标签**：#表达 #心理
+
+### 双重标准——一百万起火 vs 一起特斯拉事故
+- **来源**：📖《The Book of Elon》| The Battle of Public Perception
+- **类型**：真实故事
+- **核心观点**：一百万辆燃油车起火没人管，一辆特斯拉上头条
+- **原文**：There are over a million internal combustion engine car fires per year resulting in thousands of deaths, but one Tesla car fire with no injuries gets the biggest headlines. Why the double standard? Tesla doesn't advertise and fossil fuel companies are among the world's biggest advertisers.
+- **场景标签**：#表达
+
+### 我在乎现实，去他的观感
+- **来源**：📖《The Book of Elon》| Companies Are Philanthropy
+- **类型**：金句
+- **核心观点**：在乎看起来好的人其实在做坏事，去他们的
+- **原文**：I care about the reality of goodness, not the perception of it. What I see all over the place is people who care about looking good while doing evil. Fuck them. I care about reality. Perception be damned.
+- **场景标签**：#表达 #决策
+
+### 公司就是慈善
+- **来源**：📖《The Book of Elon》| Companies Are Philanthropy
+- **类型**：原则
+- **核心观点**：解决真问题的公司本身就是最好的慈善
+- **原文**：If philanthropy is acting from a love of humanity—my companies are philanthropy. SpaceX is trying to ensure the long-term survival of humanity. Tesla is accelerating sustainable energy. These are love-based missions.
+- **场景标签**：#表达 #决策
+
+### 别用缩写——沟通要简单
+- **来源**：📖《The Book of Elon》| Simple Communication
+- **类型**：原则
+- **核心观点**：需要解释的词汇就是在阻碍沟通
+- **原文**：Don't use acronyms or nonsense words for objects, software, or processes. Anything that requires an explanation inhibits communication. We don't want people to memorize a glossary just to function.
+- **场景标签**：#表达 #产品
+
+### 信号大于噪音
+- **来源**：📖《The Book of Elon》| A Whole New Kind of Car Company
+- **类型**：原则
+- **核心观点**：问自己：我花的精力让产品变好了吗？没有就停
+- **原文**：Focus on signal over noise. A lot of companies get confused. They spend money on things that don't actually make the product better. Ask, "Are the efforts we're expending resulting in a better product?" If not, stop those efforts.
+- **场景标签**：#表达 #产品
+
+### 美感也是竞争力
+- **来源**：📖《The Book of Elon》| A Whole New Kind of Car Company
+- **类型**：原则
+- **核心观点**：训练自己注意细节，把潜意识的审美变成有意识的
+- **原文**：The value of beauty and inspiration is underrated. You can train yourself. Look closely at each object's geometry. Anyone can do this, although it is a double-edged sword, because then you always notice all the little things.
+- **场景标签**：#表达 #产品
+
+### 前例和最高级——人们对什么有反应
+- **来源**：📖《The Book of Elon》| I Expected to Lose Everything
+- **类型**：方法论
+- **核心观点**：想说服公众，用「第一次」和「最远/最大/最快」
+- **原文**：People tend to respond to precedents and superlatives. The greenhouse mission would be the first life on another planet, the farthest life had ever traveled. That's the money shot.
+- **场景标签**：#表达
+
+### 不要让服务成为利润中心
+- **来源**：📖《The Book of Elon》| A Whole New Kind of Car Company
+- **类型**：原则
+- **核心观点**：产品坏了还赚用户的钱，这不对
+- **原文**：I have made it a principle within Tesla that we should never attempt to make service a profit center. It does not seem right to me when companies make a profit off customers when their product breaks.
+- **场景标签**：#表达 #产品
+
+### S 曲线——开头被低估，中间被高估
+- **来源**：📖《The Book of Elon》| Give People More for Less
+- **类型**：方法论
+- **核心观点**：新技术采用遵循 S 曲线，开头比你想的慢，之后比你想的快
+- **原文**：People underpredict it in the beginning because they extrapolate in a straight line. Then they overpredict at the midpoint during massive growth. It generally takes three major iterations of any major new technology to have it work really, really well.
+- **场景标签**：#表达 #产品
+
+### 像乐高一样精确
+- **来源**：📖《The Book of Elon》| Give People More for Less
+- **类型**：金句
+- **核心观点**：一个塑料玩具能做到四分之一毫米精度，车也可以
+- **原文**：LEGO is super precise. The press-fit comes down to a quarter millimeter or less. If LEGO can be that precise, so can a car.
+- **场景标签**：#产品 #表达
